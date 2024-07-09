@@ -64,7 +64,7 @@ ul {
 	
 @media only screen and (max-width: 480px) {
 
-   /* Can't figure why the mobile columns are one and not mulitple, editing this makes no difference even with ChatGTP */
+   /* Can't figure why the mobile columns are one and not mulitple, editing this makes no difference even with ChatGTP, changing height makes no difference */
    nav.vertical.ul {
       display: flex;
       flex-flow: column wrap;
